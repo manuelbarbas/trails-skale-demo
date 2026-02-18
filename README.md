@@ -6,7 +6,6 @@ A React + Vite demo showcasing the **Sequence Trails SDK** for cross-chain token
 
 - **TrailsWidget (Bridge)** - Cross-chain bridging using `mode="fund"` with custom calldata encoding
 - **TrailsWidget (Pay)** - Simple fixed-amount payments using `mode="pay"`
-- **Low-level Trails API Client** - Complete TypeScript HTTP client (unused in current demo)
 
 ## Getting Started
 
